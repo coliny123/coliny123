@@ -4,7 +4,9 @@
 </div>
 
 
-![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=coliny123&show_icons=true&theme=darka&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coliny123&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=K-Empowerment-Software-Bootcamp)](https://github.com/anuraghazra/github-readme-stats)    
+![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=coliny123&show_icons=true&theme=darka&count_private=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coliny123&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=K-Empowerment-Software-Bootcamp)](https://github.com/anuraghazra/github-readme-stats)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dh990921)](https://solved.ac/dh990921)
 
 ----
 
