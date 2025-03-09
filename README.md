@@ -1,27 +1,36 @@
-<div align="center">
-
-# 🌟 Welcome to my Code Laboratory 🌟
-</div>
+<p align="center">
 
 
-![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=coliny123&show_icons=true&theme=darka&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coliny123&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=K-Empowerment-Software-Bootcamp)](https://github.com/anuraghazra/github-readme-stats)    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dh990921)](https://solved.ac/dh990921)
-[![코드트리|실력진단-dh990921](https://banner.codetree.ai/v1/banner/dh990921)](https://www.codetree.ai/profiles/dh990921)
+</p>
 
-----
+---
 
-<!--
-**coliny123/coliny123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 Experience
+- 오토에버 모빌리티 SW스쿨 1기 수료 / (2024.08 ~ 2025.02)
+- (주) 크레이지알파카 인턴(BE 개발) / (2023.10 ~ 2024.06)
+- 인하대학교 국제통상학과 졸업 / (2018.03 ~ 2025.02)
+- K-Software BootCamp 2기 수료 / (2023.01 ~ 2023.8)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Projects
+- [QR코드 자료 공유 플랫폼 프로젝트](https://github.com/coliny123/File_Management/tree/main) / BE / (2023.10 ~ 2023.11)
+- [불량품 검출 공정 실시간 모니터링 플랫폼 프로젝트](https://github.com/coliny123/KEB-SmartFactory-Team-Project) / BE, IoT / (2023.07 ~ 2023.08)
+
+---
+
+### 🏆 Awards 
+- K-Software Bootcamp 프로젝트 발표회 대상 수상 / (2023.08)
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+---
+
+### Algorithm
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dh990921)](https://solved.ac/dh990921)
