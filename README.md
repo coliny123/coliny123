@@ -25,6 +25,11 @@
 
 ---
 
+### Article
+- [pydantic Optional Field required 에러 해결 기록](https://alwayscoliny.tistory.com/15) (2023.11)
+
+---
+
 ### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
